@@ -5,4 +5,27 @@
 }
 body{
     font-family: sans-serif;
+    background-color: wheat;
+}
+
+.col-10 h1{
+    color: wheat;
+}
+.col-10{
+    min-height: 300px
+}
+.Nome-pass{
+    border: 1px solid white;
+    background-color: wheat;
+    max-width: 300px;
+
+}
+.ticket-info{
+    min-width: 150px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid wheat;
+    border-bottom: 1px solid wheat;
+
 }
